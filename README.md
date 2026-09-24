@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Seada 🚀
 
-<!--
-**seada4/seada4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at Linköping University with a strong interest in AI, machine learning, and modern developer tools.  
+I'm building my foundation in programming and data science while exploring how AI can solve real‑world problems.
 
-Here are some ideas to get you started:
+### 🔥 Skills & Interests
+- Python & data analysis  
+- AI and ML fundamentals  
+- GitHub workflows  
+- Clean, simple project design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 Currently Working On
+- Learning GitHub best practices  
+- Building small AI‑related projects  
+- Improving my coding confidence
+
+Let's connect and build cool things!
+
